@@ -31,7 +31,7 @@ If you want to know more about me you can click on my **social links**
 
 
 
-### 💛 **But i like really learn and work with**
+### 💛 **But i really like learn and work with**
 
 ![JAVASCRIPT](badges/JavaScript-F7DF1E%20style%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack.png)
 ![NODEJS](badges/Node.js-43853D%20style%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite.png)
