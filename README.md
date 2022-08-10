@@ -20,9 +20,7 @@ If you want to know more about me you can click on my **social links**
 
 ### 👨‍💻 **Technologies with i`m working day to day in my job**
 
-
-![JAVA](badges/JAVA.svg)
-![SPRING](badges/SPRING.svg)
+![JAVASCRIPT](badges/JAVASCRIPT.svg)
 ![CSHARP](badges/Csharp.svg)
 ![NET](badges/NET.svg)
 ![MYSQL](badges/MYSQL.svg)
@@ -30,10 +28,9 @@ If you want to know more about me you can click on my **social links**
 ![CSS](badges/CSS.svg)
 
 
-
 ### 💛 **But i really like learn and work with**
 
-![JAVASCRIPT](badges/JAVASCRIPT.svg)
+
 ![NODEJS](badges/NODE.JS.svg)
 ![REACT](badges/REACT.svg)
 ![NEXTJS](badges/next.svg)
@@ -43,7 +40,6 @@ If you want to know more about me you can click on my **social links**
 
 ### ⚒️ **Tools & Platform**
 
-![INTELLYJIDEA](badges/idea.svg)
 ![VISUALSTUDIO](badges/visualstudio.svg)
 ![VSCODE](badges/vscode.svg)
 ![GIT](badges/git.svg)
