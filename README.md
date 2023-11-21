@@ -11,39 +11,3 @@ If you want to know more about me you can click on my **social links**
 [![LINKEDIN](badges/LINKEDIN.svg)](https://www.linkedin.com/in/adriansouto/)
 [![TWITTER](badges/TWITTER.svg)](https://twitter.com/adriansoutodev)
 [![INSTAGRAM](badges/INSTAGRAM.svg)](https://www.instagram.com/adriansoutodev/)
-
-
----
-
-## 🚀 Tech Stack
-
-
-### 👨‍💻 **Technologies with i`m working day to day in my job**
-
-![JAVASCRIPT](badges/JAVASCRIPT.svg)
-![CSHARP](badges/Csharp.svg)
-![NET](badges/NET.svg)
-![MYSQL](badges/MYSQL.svg)
-![HTML](badges/HTML5.svg)
-![CSS](badges/CSS.svg)
-
-
-### 💛 **But i really like learn and work with**
-
-
-![NODEJS](badges/NODE.JS.svg)
-![REACT](badges/REACT.svg)
-![NEXTJS](badges/next.svg)
-![MONGO](badges/MONGODB.svg)
-![SOLIDITY](badges/solidity.svg)
-
-
-### ⚒️ **Tools & Platform**
-
-![VISUALSTUDIO](badges/visualstudio.svg)
-![VSCODE](badges/vscode.svg)
-![GIT](badges/git.svg)
-![GITHUBACTIONS](badges/githubactions.svg)
-![VERCEL](badges/vercel.svg)
-
----
